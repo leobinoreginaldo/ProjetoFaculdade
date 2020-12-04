@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/controller/campanha/CampanhaListar.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/dao/CampanhaCarregar.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/dao/TipoCampanhaDAO.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/utils/ConnectionFactory.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/controller/campanha/CampanhaNovo.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/dao/GenericDAO.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/dao/CampanhaDAO.java</file>
+            <file>file:/home/reginaldo/NetBeansProjects/MeuProjeto/src/java/br/com/exemplo/projeto/controller/campanha/CampanhaExcluir.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -23,7 +23,7 @@ import java.util.logging.Logger;
  * @author reginaldo
  */
 public class CampanhaDAO implements GenericDAO {
-
+   
     private Connection conexao;
 
     public CampanhaDAO() {
